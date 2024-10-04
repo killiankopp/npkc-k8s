@@ -1,0 +1,11 @@
+NameSpace: npkc
+AppName: amandine-php7.4-db
+NodePort: 32101
+
+MariadbReplicas: 1
+MariadbImageTag: latest
+MariadbDiskSize: 3Gi
+MariadbServerId: 2
+MariadbDbName: npk_communication
+MariadbDbUser: username
+MariadbDbPort: 3306
