@@ -4,7 +4,7 @@ NodePort: 32101
 
 MariadbReplicas: 1
 MariadbImageTag: latest
-MariadbDiskSize: 4Gi
+MariadbDiskSize: 3Gi
 MariadbServerId: 2
 MariadbDbName: npk_communication
 MariadbDbUser: username
